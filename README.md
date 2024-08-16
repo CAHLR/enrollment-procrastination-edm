@@ -23,3 +23,9 @@ Borchers, C., Xu, Y., & Pardos, Z. A. (2024). Are You an Early Dropper or Late S
 * `modeling.R`: reads in table exported in `export-for-R.ipynb` and performs regression modeling relevant to RQ2.
 * `add_drop_calendar_fa16_fa22.xlsx`: Academic calendar and phase reference dates by semester.
 
+## EDM Extension Analysis Code
+
+* `extended-analyses-aggregation.ipynb`: Generating data files for extension analyses
+* `extended-analyses-growthcurves.R`: Growth curve models for causal inference
+* `extended-analyses-modeling.ipynb`: Descriptives and modeling performed in Python, especially related to workload
+
